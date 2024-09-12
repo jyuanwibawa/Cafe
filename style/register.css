@@ -1,0 +1,37 @@
+/* register.css */
+.btn-custom {
+    width: 50%;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-custom:hover {
+    background-color: transparent;
+    color: black;
+    border-color: black;
+}
+
+
+input.form-control {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+input.form-control:focus {
+    border-color: black;
+    box-shadow: none;
+}
+
+/* Center the form container */
+h3 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+div {
+    text-align: ce
+}
